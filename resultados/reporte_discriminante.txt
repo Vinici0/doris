@@ -1,0 +1,54 @@
+================================================================================
+📊 REPORTE DE ANÁLISIS DISCRIMINANTE LINEAL (LDA)
+================================================================================
+
+1️⃣ VARIABLE CATEGÓRICA SELECCIONADA
+--------------------------------------------------------------------------------
+   Variable: Grupo_Artificial
+   Clases: Alto, Bajo, Medio
+   Número de clases: 3
+
+2️⃣ EXACTITUD DEL MODELO
+--------------------------------------------------------------------------------
+   Exactitud en datos de prueba: 60.22%
+
+   ⚠️  Capacidad discriminante moderada
+
+3️⃣ MATRIZ DE CONFUSIÓN
+--------------------------------------------------------------------------------
+   Ver gráfico: matriz_confusion_lda.png
+
+   Métricas por clase:
+      • Alto:
+        - Recall (sensibilidad): 58.1%
+        - Precisión: 100.0%
+      • Bajo:
+        - Recall (sensibilidad): 54.8%
+        - Precisión: 54.0%
+      • Medio:
+        - Recall (sensibilidad): 67.7%
+        - Precisión: 48.3%
+
+4️⃣ VARIABLES MÁS IMPORTANTES PARA DISCRIMINACIÓN
+--------------------------------------------------------------------------------
+   • responseID: 2.5681
+   • Localidad: 0.3676
+   • A16R8: 0.3193
+   • A13A1: 0.3163
+   • A10: 0.3156
+   • A16R9: 0.3037
+   • A5: 0.2920
+   • A16R7: 0.2844
+   • A11: 0.2297
+   • A3: 0.2273
+
+5️⃣ CONCLUSIÓN
+--------------------------------------------------------------------------------
+   El análisis discriminante permite:
+   ✓ Clasificar observaciones en 3 grupos
+   ✓ Con una exactitud de 60.22%
+   ✓ Las variables listadas arriba son las más discriminantes
+
+   📌 Con 3 clases, LDA crea 2 funciones discriminantes
+
+================================================================================

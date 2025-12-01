@@ -1,0 +1,53 @@
+================================================================================
+🎯 INTERPRETACIÓN DE CLUSTERS
+================================================================================
+
+
+📌 Cluster 0
+--------------------------------------------------------------------------------
+   Tamaño: 441 personas (71.1%)
+
+   Características distintivas:
+      • responseID: 24903.156
+      • A3: 2.344
+      • A16R13: 0.324
+      • A16R19: 0.315
+      • A16R20: 0.300
+
+   💡 Perfil del grupo:
+      Este grupo representa un 71.1% de la muestra.
+      Se caracteriza por los valores mostrados arriba.
+      [INTERPRETAR MANUALMENTE según el contexto de tus datos]
+
+📌 Cluster 1
+--------------------------------------------------------------------------------
+   Tamaño: 179 personas (28.9%)
+
+   Características distintivas:
+      • responseID: 61353.586
+      • A3: 5.774
+      • A16R13: 0.799
+      • A16R19: 0.775
+      • A16R20: 0.739
+
+   💡 Perfil del grupo:
+      Este grupo representa un 28.9% de la muestra.
+      Se caracteriza por los valores mostrados arriba.
+      [INTERPRETAR MANUALMENTE según el contexto de tus datos]
+
+================================================================================
+👥 TIPOS DE PERSONAS EN CADA GRUPO
+================================================================================
+
+⚠️  NOTA IMPORTANTE:
+La interpretación final debe hacerse manualmente considerando:
+   • El contexto de tu estudio
+   • El significado de cada variable
+   • Los patrones observados en las estadísticas
+
+Ejemplo de interpretación:
+   • Cluster 0: Personas jóvenes con alto nivel educativo
+   • Cluster 1: Adultos mayores con condiciones de salud específicas
+   • Cluster 2: Grupo intermedio con características balanceadas
+
+================================================================================

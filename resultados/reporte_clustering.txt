@@ -1,0 +1,35 @@
+================================================================================
+📊 REPORTE DE ANÁLISIS DE CLUSTERING
+================================================================================
+
+1️⃣ METODOLOGÍA
+--------------------------------------------------------------------------------
+   • Algoritmo: K-Means
+   • Datos: Estandarizados (media=0, sd=1)
+   • Métrica: Distancia Euclidiana
+
+2️⃣ DETERMINACIÓN DEL NÚMERO ÓPTIMO DE CLUSTERS
+--------------------------------------------------------------------------------
+   ✅ Clusters elegidos: 2
+
+   Método del codo:
+      • Evaluamos de 2 a 10 clusters
+      • Usamos 4 métricas de validación:
+        - Inercia (WCSS)
+        - Coeficiente de Silhouette
+        - Índice Calinski-Harabasz
+        - Índice Davies-Bouldin
+
+3️⃣ CALIDAD DEL CLUSTERING
+--------------------------------------------------------------------------------
+   • Silhouette Score: 0.176
+     ⚠️  Separación débil, considerar otros valores de K
+
+4️⃣ DESCRIPCIÓN DE GRUPOS
+--------------------------------------------------------------------------------
+   • Cluster 0: 441 miembros (71.1%)
+   • Cluster 1: 179 miembros (28.9%)
+
+   Ver 'interpretacion_clusters.txt' para detalles completos
+
+================================================================================
